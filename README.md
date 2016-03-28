@@ -9,4 +9,5 @@ rotateiv= new RotateImageView(this);  //初始化
 rotateiv.stopRotate( boolean  isplay  );  //开始或者停止旋转
 
 
-![image](https://github.com/wubolinha/RotateImageView/gitRotateImageView/rotateimageview.avi_1459136887.gif)	
+
+![image](https://github.com/wubolinha/RotateImageView/raw/master/rotateimageview.avi_1459136887.gif)	
