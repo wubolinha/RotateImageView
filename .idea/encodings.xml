@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/halin/rotateimageview/ObserverManage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/halin/rotateimageview/RotateImageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/halin/rotateimageview/StoryVoicePlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/listenprogressres.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/slt_btn_listen_paly.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/slt_btn_listen_pause.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/bgimage.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/icon_transparent.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/klts_first_jdt2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/klts_jdtlisten_bj.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/klts_ks_buttom_pressed.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/klts_ks_normal.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/kltswave_bj.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/kltswave_bj_wave.png" charset="UTF-8" />
+  </component>
+</project>
